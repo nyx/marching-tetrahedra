@@ -10,4 +10,4 @@ Thanks to [David Ronnqvist][2] for his [Custom SceneKit geometry][3] blog post
 
 [1]: http://en.wikipedia.org/wiki/Marching_tetrahedra
 [2]: https://twitter.com/davidronnqvist
-[3]: http://ronnqvi.st/custom-scenekit-geometry/
+[3]: http://ronnqvi.st/custom-scenekit-geometry
